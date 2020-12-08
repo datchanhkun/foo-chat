@@ -1,22 +1,22 @@
 # foo-chat
 
-#Download
-- git clone -b nhome_foochat https://github.com/tailieuweb/training-react.git
+# Download
+- git clone -b nhome_foochat https://github.com/tailieuweb/foochat.git
 
-#Install Server
+# Install Server
 - npm install or yarn install 
 
-#Install Client
+# Install Client
 - cd client
 - npm start or yarn start
 
-#Run config
+# Run config
 - node .env
 
-#Start server
+# Start server
 - npm start or yarn start
 
-#Start client
+# Start client
 - cd client && npm start or yarn start
 
 
